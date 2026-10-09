@@ -43,3 +43,7 @@ $RECYCLE.BIN/
 **/__pycache__/
 **/.venv/
 **/venv/
+
+# Devops
+devops/xcaret-pmd/apex-resultado.html
+devops/xcaret-pmd/apex-clases
